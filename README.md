@@ -1,6 +1,6 @@
 # Thermal Image Stitching for Close-Range Solar Panels
 
-This repository contains the code, datasets, and documentation for research on **improving thermal image stitching quality through optimized color map ranges**. The study is focused on close-range solar panel inspection.
+This repository contains the code, datasets, and documentation for my first undergrad research on **improving thermal image stitching quality through optimized color map ranges**. The study is focused on close-range solar panel inspection. Didn't go far, but it's good to keep it documented anyway. 
 
 ## **Abstract**
 Image stitching is challenging for thermal imaging due to limited visual features. This study investigates the effect of color map selection and range focusing on stitching quality. Key findings include the effectiveness of using focused ranges and specific color maps like Magma and Inferno.
