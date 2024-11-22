@@ -17,4 +17,3 @@ Image stitching is challenging for thermal imaging due to limited visual feature
 
 ## **Acknowledgments**
 This work was supported by IMPACTLab. The dataset was derived from close-range solar panel thermal images.
-```
