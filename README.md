@@ -1,4 +1,3 @@
-```markdown
 # Thermal Image Stitching for Close-Range Solar Panels
 
 This repository contains the code, datasets, and documentation for research on **improving thermal image stitching quality through optimized color map ranges**. The study is focused on close-range solar panel inspection.
